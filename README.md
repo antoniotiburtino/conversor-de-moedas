@@ -2,11 +2,13 @@
 
 Este projeto é um conversor de moedas simples, desenvolvido em Java, que permite a conversão de valores entre diferentes moedas utilizando uma API para taxas de câmbio.
 
-*Este projeto faz parte do programa Oracle NEXT Education (ONE), no curso "Praticando Java: Challenge conversor de moedas.*
+
 
 - Converter valores entre diferentes moedas.
 - Obter taxas de câmbio em tempo real através de uma API externa.
 - Suporte para múltiplas moedas.
+- 
+*Este projeto faz parte do programa Oracle NEXT Education (ONE), no curso "Praticando Java: Challenge conversor de moedas.*
 
 ## ⚙️ Como Rodar o Projeto
 
